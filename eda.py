@@ -2,4 +2,4 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 df = pd.read_csv('data/supermarket_sales.csv')
-df.head()
+print(df.head())
