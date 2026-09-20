@@ -1,5 +1,5 @@
 A business analyst practice project exploring the Kaggle "Superstore" sales dataset:
-trends, segmentation, and growth analysis, done as a self-guided assignment.
+trends, segmentation and growth analysis.
 
 ## Project structure
 
