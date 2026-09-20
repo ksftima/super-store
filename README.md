@@ -5,7 +5,8 @@ trends, segmentation and growth analysis.
 
 | File | Purpose |
 |---|---|
-| `eda.ipynb` | Main notebook — exploratory analysis, charts, and calculations. |
+| `overall_performance.ipynb` | overall exploratory analysis, monthly and yearly trends + plots. |
+| `segment_analysis.ipynb` | analysis by region, categories/sub-categories and top customers |
 | `eda.py` | Script version / scratch space for quick checks. |
 | `metadata.py` | Data dictionary as a Python dict (`METADATA`) — column names, descriptions, and types. |
 | `data/supermarket_sales.csv` | The dataset (not tracked in git — see below). |
